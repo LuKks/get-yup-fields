@@ -1,6 +1,6 @@
 {
   "name": "get-yup-fields",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get fields from a yup schema",
   "main": "index.js",
   "scripts": {
