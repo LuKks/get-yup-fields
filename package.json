@@ -1,0 +1,24 @@
+{
+  "name": "get-yup-fields",
+  "version": "0.0.0",
+  "description": "Get fields from a yup schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukks/get-yup-fields.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/get-yup-fields/issues"
+  },
+  "homepage": "https://github.com/lukks/get-yup-fields#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "standard": "^17.1.0",
+    "yup": "^1.3.3"
+  }
+}
